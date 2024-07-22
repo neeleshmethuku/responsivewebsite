@@ -41,7 +41,7 @@ a{
 /*==========  HEADER  ==========*/
 
 .header{
-	padding: 12px 0;
+	padding: 10px 0;
 	line-height: 1.5;
 }
 
@@ -51,8 +51,8 @@ a{
 }
 
 header .logo img{
-	width: 30%;
-	height: 30%;
+	width: 25%;
+	height: 25%;
 }
 
 /* .header .logo a{
