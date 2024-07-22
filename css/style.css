@@ -184,8 +184,7 @@ header .logo img{
 	padding-top: 80px;
 }
 .box h2{
-	/* font-size: 60px; */
-	font-size: 55px;
+	font-size: 45px;
 	padding: 10px 30%;
 	color: #fff;
 }
@@ -204,7 +203,8 @@ header .logo img{
 /* ===== Mobile Queries ===== */
 @media(max-width: 768px){
     .box {
-        height: auto; /* Adjust height for mobile */
+        height:230px;
+        width: auto;
     }
 
     .box h4 {
@@ -217,7 +217,8 @@ header .logo img{
     }
 
     .button {
-        padding: 10px 24px; /* Adjust padding for mobile */
+        /* padding: 10px 24px; Adjust padding for mobile */
+        visibility: hidden;
     }
 }
 /* ==========  About-Us  ========== */
@@ -398,7 +399,7 @@ h3{
 	padding-top: 80px;
 }
 .box1 h2{
-	font-size: 55px;
+	font-size: 45px;
 	padding: 8% 25%;
 	color: #fff;
 }
@@ -430,7 +431,7 @@ h3{
 
 @media screen and (max-width: 768px) {
 	.box1{
-		height: auto;
+		height: 220px;
 		width: auto;
 	}
 	.rows{
